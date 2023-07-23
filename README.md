@@ -4,5 +4,5 @@ This README showcases a cafe menu webpage built with HTML and CSS. It lists coff
 
 Cafe Menu :
 
-![Cafe Menu](./1CafeMenu.jpg)
+![Cafe Menu](./CafeMenu.jpg)
 
