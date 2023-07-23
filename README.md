@@ -5,5 +5,3 @@ This README showcases a cafe menu webpage built with HTML and CSS. It lists coff
 Cafe Menu
 ![Cafe Menu](./CafeMenu.jpg)
 
-Visit our website: FreeCodeCamp
-Address: 123 Free Code Camp Drive.
